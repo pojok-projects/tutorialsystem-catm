@@ -10,7 +10,7 @@ endif
 branch=`git rev-parse --abbrev-ref HEAD`
 
 # Parameters
-SolutionNamingBase=tutorial-system-catm
+SolutionNamingBase=tutorialsystem-catm
 SolutionNaming=${SolutionNamingBase}-${branch}
 
 Locale=cicd
